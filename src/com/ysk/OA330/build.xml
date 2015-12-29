@@ -1,0 +1,10 @@
+<project name="OA330" default="init" basedir=".">
+    
+    <target name="init">
+       
+       <copy encoding="UTF-8" includeemptydirs="false" todir="V:\babylon\yskoa_uat\com\ysk\OA330">
+           <fileset dir="D:\EmakerProject\OA330\src\com\ysk\OA330">
+                      </fileset>
+       </copy>
+    </target>
+</project>
